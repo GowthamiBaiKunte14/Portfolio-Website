@@ -69,4 +69,12 @@ select{
     color: #fff;
     padding: 18px 12px;
     text-decoration: none;
+
+}
+.image{
+       height: fit-content;
+    background-color: #e50914;
+    color: #fff;
+    padding: 18px 12px;
+    text-decoration: none;
 }
